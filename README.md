@@ -4,14 +4,16 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&duration=2400&pause=1000&color=9D7CFF&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+a+Web3+Engineer;Smart+Contracts+%26+Neon+Frontends;Gas-Optimized+DeFi+%26+Security;On-chain+UX+for+the+Metaverse)
 
+</div>
+
 ---
 
-### ✨ About Me
-**Specializing in**  
-Solidity · EVM · Hardhat · Foundry  
-Next.js · Wagmi · Viem · TypeScript  
-Indexers · Subgraphs · Node.js APIs  
-Smart contract security · Gas optimization
+## ✨ About Me
+**Specializing in**
+- Solidity · EVM · Hardhat · Foundry
+- Next.js · Wagmi · Viem · TypeScript
+- Indexers · Subgraphs · Node.js APIs
+- Smart contract security · Gas optimization
 
 ⚡ I craft futuristic, neon-grade experiences for Web3 natives  
 🧠 Passionate about secure contracts, programmable liquidity, and zk-friendly UX  
@@ -19,7 +21,9 @@ Smart contract security · Gas optimization
 
 ---
 
-### 🧠 Tech Stack
+## 🧠 Tech Stack
+
+<div align="center">
 
 ![Solidity](https://skillicons.dev/icons?i=solidity&theme=dark)
 ![Ethereum](https://img.shields.io/badge/EVM-12131A?style=for-the-badge&logo=ethereum&logoColor=8AEBFF)
@@ -39,32 +43,44 @@ Smart contract security · Gas optimization
 ![Security](https://img.shields.io/badge/Smart%20Contract%20Security-7E22CE?style=for-the-badge&logo=hackthebox&logoColor=fff)
 ![Gas Optimization](https://img.shields.io/badge/Gas%20Optimization-FF7FD1?style=for-the-badge&logo=speedtest&logoColor=fff)
 
+</div>
+
 ---
 
-### 🚀 Currently Building
+## 🚀 Currently Building
 - 🛠 Polygon Smart Contract Toolkit
 - 🔐 Vesting + Staking dApp (Next.js / Viem)
 - 🌐 Polygon Indexer + API
 
 ---
 
-### 📬 Contact
+## 📬 Contact
 [![Telegram](https://img.shields.io/badge/Telegram-@xkarkadanx-1D9BF0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xkarkadanx)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaroslavGuru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D7CFF&icon_color=FFB347)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavGuru&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D7CFF)
 
+</div>
+
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
+
+<div align="center">
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YaroslavGuru&theme=onestar&margin-w=15&margin-h=15&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
+
 ---
+
+<div align="center">
 
 🌌 “Build bold, stay composable, and let neon contracts light the metaverse.” 🌌
 

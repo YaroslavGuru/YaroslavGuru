@@ -1,4 +1,4 @@
-<div align="center">
+<div style="font-family: Consolas, monospace; color: #FF6347; background-color: #0d1117; padding: 20px; border-radius: 10px;">
 
 ![Neon Banner](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:834DFF,50:1F1BFF,100:00D2FF&text=YaroslavGuru%20%7C%20Web3%20Engineer&fontSize=42&fontAlign=50&fontColor=FFFFFF&animation=twinkling)
 
@@ -21,23 +21,29 @@ Smart contract security · Gas optimization
 
 ### 🧠 Tech Stack
 
-![Solidity](https://skillicons.dev/icons?i=solidity&theme=dark)
-![Ethereum](https://img.shields.io/badge/EVM-12131A?style=for-the-badge&logo=ethereum&logoColor=8AEBFF)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFDF00?style=for-the-badge&logo=hardhat&logoColor=000)
-![Foundry](https://img.shields.io/badge/Foundry-0A0A0A?style=for-the-badge&logo=forgejo&logoColor=F45050)
+**Skill Icons:**
 
-![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)
-![Wagmi](https://img.shields.io/badge/Wagmi-3AFFF5?style=for-the-badge&logo=ethers&logoColor=0A0A0A)
-![Viem](https://img.shields.io/badge/Viem-FF5FDB?style=for-the-badge)
-![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+<img src="https://skillicons.dev/icons?i=solidity&theme=dark" alt="Solidity" width="48" height="48" style="margin: 5px;">
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" width="48" height="48" style="margin: 5px;">
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" width="48" height="48" style="margin: 5px;">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="48" height="48" style="margin: 5px;">
+<img src="https://skillicons.dev/icons?i=graphql&theme=dark" alt="GraphQL" width="48" height="48" style="margin: 5px;">
+</div>
 
-![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
-![GraphQL](https://skillicons.dev/icons?i=graphql&theme=dark)
-![Subgraphs](https://img.shields.io/badge/Subgraphs-8B5CF6?style=for-the-badge&logo=thegraph&logoColor=fff)
-![Indexers](https://img.shields.io/badge/Indexers-00FFAA?style=for-the-badge)
+**Badge Icons:**
 
-![Security](https://img.shields.io/badge/Smart%20Contract%20Security-7E22CE?style=for-the-badge&logo=hackthebox&logoColor=fff)
-![Gas Optimization](https://img.shields.io/badge/Gas%20Optimization-FF7FD1?style=for-the-badge&logo=speedtest&logoColor=fff)
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+<img src="https://img.shields.io/badge/EVM-12131A?style=for-the-badge&logo=ethereum&logoColor=8AEBFF" alt="EVM" height="28" style="margin: 5px;">
+<img src="https://img.shields.io/badge/Hardhat-FFDF00?style=for-the-badge&logo=hardhat&logoColor=000" alt="Hardhat" height="28" style="margin: 5px;">
+<img src="https://img.shields.io/badge/Foundry-0A0A0A?style=for-the-badge&logo=forgejo&logoColor=F45050" alt="Foundry" height="28" style="margin: 5px;">
+<img src="https://img.shields.io/badge/Wagmi-3AFFF5?style=for-the-badge&logo=ethers&logoColor=0A0A0A" alt="Wagmi" height="28" style="margin: 5px;">
+<img src="https://img.shields.io/badge/Viem-FF5FDB?style=for-the-badge" alt="Viem" height="28" style="margin: 5px;">
+<img src="https://img.shields.io/badge/Subgraphs-8B5CF6?style=for-the-badge&logo=thegraph&logoColor=fff" alt="Subgraphs" height="28" style="margin: 5px;">
+<img src="https://img.shields.io/badge/Indexers-00FFAA?style=for-the-badge" alt="Indexers" height="28" style="margin: 5px;">
+<img src="https://img.shields.io/badge/Smart%20Contract%20Security-7E22CE?style=for-the-badge&logo=hackthebox&logoColor=fff" alt="Security" height="28" style="margin: 5px;">
+<img src="https://img.shields.io/badge/Gas%20Optimization-FF7FD1?style=for-the-badge&logo=speedtest&logoColor=fff" alt="Gas Optimization" height="28" style="margin: 5px;">
+</div>
 
 ---
 
@@ -49,23 +55,19 @@ Smart contract security · Gas optimization
 ---
 
 ### 📬 Contact
-[![Telegram](https://img.shields.io/badge/Telegram-@xkarkadanx-1D9BF0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xkarkadanx)
+[![Telegram](https://img.shields.io/badge/Telegram-@xkarkadanx-1D9BF0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xkarkadanx)  
+📧 **Email:** sudobe7@gmail.com
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaroslavGuru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D7CFF&icon_color=FFB347)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavGuru&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D7CFF)
 
 ---
 
-### 🏆 GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YaroslavGuru&theme=onestar&margin-w=15&margin-h=15&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-🌌 “Build bold, stay composable, and let neon contracts light the metaverse.” 🌌
+<div style="font-family: Consolas, monospace; color: #FF6347; letter-spacing: 0.1em;">
+🌌 "Build bold, stay composable, and let neon contracts light the metaverse." 🌌
+</div>
 
 </div>
